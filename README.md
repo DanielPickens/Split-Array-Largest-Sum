@@ -1,5 +1,5 @@
 # Split-Array-Largest-Sum
-My code that is faster than 99%
+My code that is faster than 99% that solves rhe Leetcode: Split Array Largest Sum
 
 
 "Given an array nums which consists of non-negative integers and an integer m, you can split the array into m non-empty continuous subarrays.
